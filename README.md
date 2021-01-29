@@ -13,4 +13,12 @@ Network Pathway analysis approach to understanding the comorbidity of Sleep diso
 ### Status Updates go here : - 
 Week 1 - Verification (AA), PPI network study? (AD)
 
+Meet Discussion 
+
+- Go ahead only with Sleep disorderds, MUST link with ASD.
+
+- HOW to validate list of genes? Review paper for sleep disorders genetics?
+
+- Physical and Functional layer possiblity.
+
 Week 2
