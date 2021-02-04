@@ -15,10 +15,20 @@ Week 1 - Verification (AA), PPI network study? (AD)
 
 Meet Discussion 
 
-- Go ahead only with Sleep disorderds, MUST link with ASD.
+- Go ahead only with Sleep disorderd, MUST link with ASD.
 
 - HOW to validate list of genes? Review paper for sleep disorders genetics?
 
 - Physical and Functional layer possiblity.
 
-Week 2
+Week 2 - Verification of Genes and Proteins (AA+AD)
+
+Meet Discussion
+
+- Complete the list of genes using Oxford TB
+
+- Clean and finalize list and submit to STRING
+
+- Analysis of Network in Detail
+
+Week 3 - 
