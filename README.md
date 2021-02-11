@@ -9,6 +9,7 @@ Network Pathway analysis approach to understanding the comorbidity of Sleep diso
 
 ### To Do (Current)
 1. Verification and Study
+2. Feed genes (alias if required) to STRING
 
 ### Status Updates go here : - 
 Week 1 - Verification (AA), PPI network study? (AD)
@@ -31,4 +32,8 @@ Meet Discussion
 
 - Analysis of Network in Detail
 
-Week 3 - 
+Week 3 - Compiling genes from all sources - Oxford TB - Final list of genes
+
+Meet Discussion
+
+- Validation using another NPA tool
