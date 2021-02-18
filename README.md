@@ -37,3 +37,11 @@ Week 3 - Compiling genes from all sources - Oxford TB - Final list of genes
 Meet Discussion
 
 - Validation using another NPA tool
+
+Week 4 - Fed to STRING, Aliasing, Clustering (AD), AA read STRING properties in detail.
+
+Meet Discussion
+
+- David, Visant
+- Start anal
+- String confidence scores 
