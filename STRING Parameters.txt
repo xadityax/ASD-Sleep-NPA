@@ -1,0 +1,6 @@
+Homo Sapiens
+Full String Network
+Medium Confidence 0.4
+FDR stringency medium - 5 percent
+
+Doubts and not-found genes - GABRA (1/2), DEC2 , NFKB1 (NF-kB), HLA-DQB1, HLA-DR2, HLA-DRB1,3,4,5, DQw1 (HLA-DQ1), HLA-DQA1, LBOXCOR1 (Try MAP2K5 or LBXCOR1), ENUR1,3 (Try enuresis), DMT1 - SLC11A2 same, TCRA - TCRalpha T cell receptor alpha or TRA
